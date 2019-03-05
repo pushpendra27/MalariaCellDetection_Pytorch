@@ -1,1 +1,1 @@
-#Malaria Cells Image Classification using Pytorch
+Malaria Cells Image Classification using Pytorch
